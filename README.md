@@ -12,10 +12,23 @@ To monitor and analyze energy usage and costs across various departments, buildi
  - Cost savings and cost per unit of energy.
  - Carbon footprint and sustainability progress.
    
-### 3. Power BI Features for Implementation
-#### 1.	Energy Usage Visualization
-  - Dashboards: Display trends in energy consumption, peak usage times, and cost per unit of energy.
-#### 2.	Cost vs. Consumption Analysis
-  - Stacked Bar Charts: Compare energy costs with consumption levels to identify inefficiencies.
-#### 3.	Sustainability Reporting
- - Progress Tracking: Visualize progress toward sustainability goals, including carbon emissions reduction.
+### 3. Power BI Features Utilized
+Leverage Power BI to create insightful and actionable dashboards:
+
+#### 1. Energy Usage Visualization:
+ - Create dashboards showing energy consumption trends, cost per unit of energy, and peak usage times.
+#### 2. Cost vs. Consumption:
+  - Stacked Bar Charts: Compare energy costs with consumption levels to detect inefficiencies and outliers.
+#### 3. Sustainability Reporting:
+ - Gauge Charts: Monitor progress toward reducing carbon emissions or energy waste.
+ - KPIs: Display real-time performance against sustainability targets.
+
+## Actionable Insights
+The Power BI dashboards provide insights that enable informed decision-making:
+
+#### 1. Reduce Energy Waste:
+Identify inefficiencies by analyzing high-consumption periods and locations.
+#### 2. Optimize Energy Usage:
+Adjust operational schedules to reduce peak demand and costs.
+#### 3. Achieve Sustainability Goals:
+Track progress toward reducing the carbon footprint and improving energy efficiency.
